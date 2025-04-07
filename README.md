@@ -25,26 +25,46 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+In osTicket, the password reset process follows a structured ticket lifecycle. Here's what happened based on that lifecycle:  
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+1. **Ticket Creation:** When the customer submitted a password reset request, a new ticket was generated in the system. This ticket was assigned a unique ID and categorized as an **Account/Login Issue** for tracking.  
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+2. **Ticket Assignment & Triage:** The support team reviewed the request, confirmed that the customer’s account was locked due to multiple failed login attempts, and classified it as a **password reset request**.  
+
+3. **Resolution & Action Taken:** The support team reset the customer’s password and provided a temporary one, ensuring access could be regained. This step involved verifying account details and following security protocols.  
+
+4. **Customer Notification:** The customer received a response with a new temporary password and instructions on how to log in and create a new, secure password.  
+
+5. **Ticket Closure or Follow-Up:** If the customer successfully logged in and changed the password, the ticket would be marked as **resolved** and closed. However, if any issues persisted, the customer could reply to the ticket for further assistance, keeping it **open** until the issue was fully resolved.  
+
+This structured process ensures efficiency, security, and a clear resolution path for login-related issues in osTicket.
+
+![image](https://github.com/user-attachments/assets/ded9a3b8-cb99-42f7-93e3-36450e0a4edf)
+
+
+![image](https://github.com/user-attachments/assets/54410680-e392-4b82-b832-5a383db0f489)
+
+
+
+
+![image](https://github.com/user-attachments/assets/4bcd0b58-3bc9-4080-82f3-2fde3a56c178)
+
+
+
+
+![image](https://github.com/user-attachments/assets/d44a12a6-9f3a-426e-9392-046f9fe0aabd)
+
+
+
+
+![image](https://github.com/user-attachments/assets/16de3adb-bacf-491e-8612-b42a29704fef)
+
+
+
+
+![image](https://github.com/user-attachments/assets/9765c9e4-4af6-4627-b89f-6b38d910ed52)
+
+
+
+
+
